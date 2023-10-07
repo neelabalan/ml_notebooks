@@ -21,6 +21,11 @@ opencv-python = "4.7.0.72"
 # pip install only in this case
 # https://github.com/NicolasHug/Surprise/issues/447
 scikit-surprise = "1.1.3"
+nltk = "^3.8.1"
+holidays = "^0.34"
+gensim = "^4.3.2"
+spacy = "^3.7.1"
+imblearn = "^0.0"
 
 
 [tool.poetry.dev-dependencies]
